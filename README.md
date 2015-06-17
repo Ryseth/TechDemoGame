@@ -6,4 +6,3 @@ Na, akkor már csak ki kéne találni, hogy mit is csinálunk, meg hogyan. Ötel
 #1 - 06.17 11:48 - dati
 
 Szerintem valami 2d felülnézetes történettel kéne kezdeni, útvonalkeresés, playerkövetés, alap scriptelhetőség, pályabetöltés, kirajzolás. C# + WPF-re gondolnék első körben, minden ami nem megjelenítés az egy dll-be.
-commit
